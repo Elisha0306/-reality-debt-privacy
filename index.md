@@ -8,4 +8,4 @@ Reality Debt uses Google AdMob to display ads and requests non-personalized ads.
 
 Your choices and requests
 
-To remove the game’s local save data, delete Reality Debt from your device. For questions about this policy, to withdraw consent where applicable, or to request deletion of information you shared with the developer, email [YOUR SUPPORT EMAIL]. If you email for support, the developer uses your email address and message to respond and retains them as needed to resolve your request.
+To remove the game’s local save data, delete Reality Debt from your device. For questions about this policy, to withdraw consent where applicable, or to request deletion of information you shared with the developer, email “admin@futuretechnologies2030.com If you email for support, the developer uses your email address and message to respond and retains them as needed to resolve your request.
